@@ -1,12 +1,8 @@
-# NotEnoughCoins
-
-<img alt="Downloads" src="https://img.shields.io/github/downloads/mindlesslydev/notenoughcoins/total.svg" />
-<img alt="Downloads" src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Drobothanzo%26type%3Dpatrons" />
+# SBFLIPPER | EDITED NEC MOD
 
 A SkyBlock Flipping Mod.
 
-Discord - https://discord.gg/b3JBsh8fEd
-Premium - https://payhip.com/b/0MuhN
+Discord - [https://discord.gg/b3JBsh8fEd](https://discord.gg/5F5vRXgh)
 
 - `/nec` - Shows the config GUI
 - `/nec help` - Shows the help message containing all the subcommands and their usage
