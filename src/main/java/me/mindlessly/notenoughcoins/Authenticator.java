@@ -19,7 +19,6 @@ import java.util.Locale;
 import java.util.Objects;
 
 
-// Credits to DungeonsGuide @ https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/blob/master/src/main/java/kr/syeyoung/dungeonsguide/Authenticator.java
 public class Authenticator {
     private static final String BASE_URL = "https://nec.robothanzo.dev/auth";
     public static String myUUID;
